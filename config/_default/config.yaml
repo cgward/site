@@ -5,7 +5,7 @@
 
 title: Chris Ward # Website name
 baseurl: 'https://cgward.rbind.io/' # Website URL
-copyright: &copy;Chris Ward {year} # Footer text, e.g. '© {year} Me'
+copyright: '&copy;Chris Ward {year}' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
