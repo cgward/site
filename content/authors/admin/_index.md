@@ -6,7 +6,7 @@ title: Chris Ward
 superuser: true
 
 # Role/position/tagline
-role: Assistant Professor of Mathematics/n Director of Math and Sciences
+role: Assistant Professor of Mathematics Director of Math and Sciences
 
 # Organizations/Affiliations to show in About widget
 organizations:
