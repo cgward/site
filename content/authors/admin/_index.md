@@ -69,4 +69,4 @@ highlight_name: true
 
 Chris Ward is an Assistant Professor of Mathematics at Southern West Virginia Community & Technical College. His interest include statistics and data analytics.
 
-# {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
