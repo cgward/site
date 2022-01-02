@@ -67,6 +67,6 @@ email: ""
 highlight_name: true
 ---
 
-Chris Ward is an Assistant Professor of Mathematics at Southern West Virginia Community & Technical College. His interest include statistics and data analytics.
+I am a matheamtician, computer programer, and a retired Chief Petty Officer from the United States Navy. In the Navy I worked on computers and weapon systems. After my retirement in 2006, I earned my B.S. in Mathematics and Computer Science at Saint Martin’s University and then my M.S. in Mathematics from Washington State University. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+[{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.]
