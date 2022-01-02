@@ -34,7 +34,7 @@ experience:
   - title: Chief Petty Officer
     company: US Navy
     company_url: ''
-    company_logo: # org-usn
+    company_logo: usn
     location: ''
     date_start: '1986-07-15'
     date_end: '2006-07-31'
