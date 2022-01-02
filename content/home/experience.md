@@ -4,7 +4,7 @@
 widget: experience
 
 # This file represents a page section.
-headless: false
+headless: true
 
 # Order that this section appears on the page.
 weight: 40
@@ -25,7 +25,7 @@ experience:
   - title: Assistant Professor
     company: Southern West Virginia Community and Technical College
     company_url: ''
-    company_logo: org-s
+    company_logo: # org-s
     location: West Virginia
     date_start: '2015-01-15'
     date_end: ''
@@ -34,7 +34,7 @@ experience:
   - title: Chief Petty Officer
     company: US Navy
     company_url: ''
-    company_logo: org-usn
+    company_logo: # org-usn
     location: ''
     date_start: '1986-07-15'
     date_end: '2006-07-31'
