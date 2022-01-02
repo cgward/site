@@ -37,7 +37,7 @@ experience:
     company_logo: org-USN
     location: ''
     date_start: '1986-07-15'
-    date_end: '2020-12-31'
+    date_end: '2006-07-31'
     description: Worked on combat computer systems, CIWS gun systems, & Seasparrow missle systems.
 
 design:
