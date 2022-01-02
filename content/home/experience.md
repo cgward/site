@@ -25,7 +25,7 @@ experience:
   - title: Assistant Professor
     company: Southern West Virginia Community and Technical College
     company_url: ''
-    company_logo: # org-s
+    company_logo: southern
     location: West Virginia
     date_start: '2015-01-15'
     date_end: ''
