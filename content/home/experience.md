@@ -23,9 +23,9 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Assistant Professor
-    company: Southern West Virginia Community & Technical College
-    company_url: 'www.southernwv.edu'
-    company_logo: org-S
+    company: Southern West Virginia Community and Technical College
+    company_url: ''
+    company_logo: org-s
     location: West Virginia
     date_start: '2015-01-15'
     date_end: ''
@@ -34,11 +34,11 @@ experience:
   - title: Chief Petty Officer
     company: US Navy
     company_url: ''
-    company_logo: org-USN
+    company_logo: org-usn
     location: ''
     date_start: '1986-07-15'
     date_end: '2006-07-31'
-    description: Worked on combat computer systems, CIWS gun systems, & Seasparrow missle systems.
+    description: Worked on combat computer systems, CIWS gun systems, and Seasparrow missle systems.
 
 design:
   columns: '2'
