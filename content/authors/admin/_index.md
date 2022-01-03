@@ -42,16 +42,16 @@ social:
   link: '/#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/
+  link: https://twitter.com/cgward02
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/
 - icon: github
   icon_pack: fab
   link: https://github.com/cgward
 - icon: linkedin
   icon_pack: fab
-  link: www.linkedin.com/in/cgward68
+  link: https://www.linkedin.com/in/cgward68
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
